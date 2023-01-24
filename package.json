@@ -1,0 +1,28 @@
+{
+    "name": "mern-ecommerce-api",
+    "version": "1.0.0",
+    "description": "Lama e-commerce website - backend API",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jayylw/MERN-Ecommerce-API.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jayylw/MERN-Ecommerce-API/issues"
+    },
+    "homepage": "https://github.com/jayylw/MERN-Ecommerce-API#readme",
+    "dependencies": {
+        "crypto-js": "^4.1.1",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^6.7.5",
+        "nodemon": "^2.0.20"
+    }
+}
